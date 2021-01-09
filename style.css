@@ -1,0 +1,51 @@
+
+        h1{color:blanchedalmond; font-family: cursive;}
+        /**{border:solid;}*/
+.header{
+    background-color: darkcyan;
+    display:flex;
+    justify-content: space-around;
+    padding: 5pt;
+}   
+
+.paragraph{
+    background-color: darkorchid;
+    display: flex;
+    justify-content: right;
+    font-stretch: wider;
+    padding: 100pt;
+    margin: 10pt;
+}
+
+.game1{
+    background-color: darkseagreen;
+    display: flex;
+    justify-content: inherit;
+}
+.game2{
+    background-color: rgb(143, 187, 188);
+    display: flex;
+    justify-content: inherit;
+}
+
+.grid{
+    background-color: rgb(169, 143, 188);
+    display: flex;
+    justify-content: center;
+    padding: 50pt;
+    margin: 100pt;
+}
+
+.footer{
+    background-color: lightseagreen;
+    display: flex;
+    justify-content: flex-end;
+}
+
+p,h2{
+    text-align: center;
+}
+
+body{
+    background-color: #808080;
+}
